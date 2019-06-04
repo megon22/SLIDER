@@ -1,0 +1,30 @@
+body {  background-image: url(img/muro.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        text-align: center;
+}
+
+
+#imagen {
+    margin-top: 80px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+  
+}
+
+.circulo {
+    display: inline-block;
+
+}
+
+#botonUno{
+    margin-bottom: 180px;
+    margin-right: 20px;
+}
+
+#botonDos{
+    margin-bottom: 180px;
+    margin-left: 20px;
+}
